@@ -1,0 +1,23 @@
+{
+  "name": "MongoPrueba",
+  "version": "0.0.0",
+  "description": "Prueba",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgeoandres/MongoPrueba.git"
+  },
+  "keywords": [
+    "Prueba",
+    "npm",
+    "git"
+  ],
+  "author": "jorgeoandres",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jorgeoandres/MongoPrueba/issues"
+  }
+}
